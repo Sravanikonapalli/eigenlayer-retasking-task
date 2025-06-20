@@ -52,8 +52,7 @@ node server.js
 ```
 
 **Live URL:**  
-> https://eigenlayer-restaking-api.onrender.com
-
+https://eigenlayer-retasking-task.onrender.com
 ##  API Endpoints
 
 | Method | Endpoint                       | Description                                   | Sample Response |
